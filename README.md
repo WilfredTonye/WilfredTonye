@@ -4,6 +4,10 @@ Software Engineer <br/>
 Ux Ui Designer <br/>
 Freelancer <br/>
 
+<div align="right">
+  <img height="345" src="https://cdn.pixabay.com/photo/2024/06/13/11/54/ui-8827392_640.jpg"  />
+</div>
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/wildesign_237) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilfredtonye.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilfred-tonye-43288a229/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wilfredtonye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WilfredTonye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wilfredtonye003@gmail.com) 
 
