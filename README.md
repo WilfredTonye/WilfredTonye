@@ -1,8 +1,8 @@
  ## Hi Everyone 👋, I'm Wilfred Tonye 👋
 
 - 👨‍💻 Software Engineer and Designer: Proficient in Web & Mobile
-- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript,Typescript, Tailwind CSS, Next.js, Angular, Flutter and React.js.
-- 🚀 Backend: Experience with Express.js, Nest.js, Node.js,My SQL, Postgres SQL and MongoDB for building RESTful APIs.
+- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript,TypeScript, Tailwind CSS, Next.js, Angular.js, Flutter and React.js.
+- 🚀 Backend: Experience with Express.js, Nest.js, Node.js,My SQL, Postgres SQL, Firebase, SuperBase and MongoDB for building RESTful APIs.
 - 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
 - 📱 UI/UX: Familiar with Figma and Adobe XD for design.
 - 📝 Version Control: Git/GitHub proficiency.
